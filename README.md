@@ -20,6 +20,7 @@ A simple and fast weather application built using **React** with **Vite** for bu
 ## Demo
 
 ### [http://localhost:5173/](#) 🔗 (If available, link to your hosted app)
+![alt text](src/assets/UISS.png)
 
 ## Usage
 Enter the name of a city in the search bar. <br>

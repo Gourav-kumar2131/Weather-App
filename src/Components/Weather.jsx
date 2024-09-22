@@ -75,7 +75,7 @@ const Weather = () =>{
 
         </div>
         {weatherData ? <>
-            <img src={weatherData.icon} alt="" className='weather-icon' />
+        <img src={weatherData.icon} alt="" className='weather-icon' />
         <p className='temperatue'>{weatherData.temperature}°C</p>
         <p className='location'>{weatherData.location}</p>
 
