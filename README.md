@@ -29,5 +29,5 @@ Press Enter or click the search button to fetch and display the weather details 
 This project uses the OpenWeather API. You can get your free API key by signing up at OpenWeather. <br>
 
 ## Project Structure
-├── public <br> ├── src <br> │ ├── components <br> │ ├── App.jsx <br> │ ├── index.jsx <br> │ └── ... <br> ├── .env <br> ├── package.json <br> ├── vite.config.js <br> └── README.md <br>
+├── public <br> ├── src <br>  │ ├── components <br>  │ ├── App.jsx <br>  │ ├── index.jsx <br>  │ └── ... <br> ├── .env <br> ├── package.json <br> ├── vite.config.js <br>└── README.md <br>
 
