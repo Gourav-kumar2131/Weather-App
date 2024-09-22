@@ -19,7 +19,7 @@ A simple and fast weather application built using **React** with **Vite** for bu
 
 ## Demo
 
-### [http://localhost:5173/](#) 🔗 (If available, link to your hosted app)
+### [http://localhost:5173/](#) 🔗 (link to your hosted app)
 ![alt text](src/assets/UISS.png)
 
 ## Usage
@@ -29,5 +29,5 @@ Press Enter or click the search button to fetch and display the weather details 
 This project uses the OpenWeather API. You can get your free API key by signing up at OpenWeather. <br>
 
 ## Project Structure
-├── public<br> ├── src<br> │ ├── components<br> │ ├── App.jsx<br> │ ├── index.jsx<br> │ └── ...<br> ├── .env<br> ├── package.json<br> ├── vite.config.js<br> └── README.md<br>
+├── public <br> ├── src <br> │ ├── components <br> │ ├── App.jsx <br> │ ├── index.jsx <br> │ └── ... <br> ├── .env <br> ├── package.json <br> ├── vite.config.js <br> └── README.md <br>
 
